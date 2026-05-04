@@ -285,13 +285,7 @@ fork → modify → pull request
 
 ---
 
-## 📧 Contact
 
-For research collaboration:
-
-* Author: (Your Name)
-* Email: (Your Email)
-* Institution: (Your University / Lab)
 
 ---
 
